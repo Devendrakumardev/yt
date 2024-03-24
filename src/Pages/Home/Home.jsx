@@ -3,6 +3,7 @@ import './Home.css'
 import Sidebar from '../../Componets/Sidebar/Sidebar'
 
 const Home = ({sidebar}) => {
+  
   return (
     <>
      <Sidebar sidebar={sidebar}/> 
